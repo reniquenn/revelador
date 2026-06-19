@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "revelador",
+    "slug": "revelador",
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "com.reniquen.revelador"
+    },
+    "plugins": [
+      "react-native-vision-camera"
+    ]
+  }
+}
